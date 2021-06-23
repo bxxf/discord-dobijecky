@@ -1,8 +1,0 @@
-{
-  "imports": {
-    "discordeno": "https://deno.land/x/discordeno@10.4.0/mod.ts",
-    "colors": "https://deno.land/std@0.88.0/fmt/colors.ts",
-    "puppeteer": "https://deno.land/x/puppeteer@5.5.1/mod.ts",
-    "user-agents": "https://cdn.skypack.dev/user-agents"
-  }
-}

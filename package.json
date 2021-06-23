@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "start": "nodemon src/index.ts"
+  },
+  "engines": {
+    "node": "v12.21.0"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.12",
+    "@types/redis": "^2.8.29",
+    "@types/socket.io": "^3.0.2",
+    "@types/user-agents": "^1.0.1",
+    "axios": "^0.21.1",
+    "discord-webhook-node": "^1.1.8",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.7",
+    "puppeteer": "^10.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "redis": "^3.1.2",
+    "socket.io": "^4.1.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4",
+    "user-agents": "^1.0.691",
+    "puppeteer-page-proxy": "^1.2.8"
+  }
+}
